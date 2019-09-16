@@ -1,0 +1,21 @@
+.menu-area a{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300px;
+    padding: 15px;
+    font-size: 1.2em;
+}
+
+
+.menu-area a:hover{
+    background: linear-gradient(135deg, #07a7e3, #32dac3 100%)
+}
+
+@media(max-width: 768px){
+    .menu-area a{
+        display: inline;
+        padding: 10px;
+        margin: 0;
+    }
+}

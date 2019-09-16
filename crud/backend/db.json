@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "lucas Hang",
+      "email": "teste@teste.com",
+      "senha": "123",
+      "id": 3,
+      "loggedIp": ""
+    },
+    {
+      "name": "Gabriela",
+      "email": "linda@maravilhosa.com",
+      "senha": "321",
+      "id": 4,
+      "loggedIp": ""
+    }
+  ]
+}
